@@ -148,17 +148,17 @@
 
     <modules>
         <!--BoyunCloud云服务API服务适配模块-->
-        <module>boyun-robot-boot</module>
+        <module>boyun-smart-boot</module>
         <!--BoyunCloud云服务API服务接口模块-->
-        <module>boyun-robot-api</module>
+        <module>boyun-smart-api</module>
         <!--BoyunCloud云服务API服务中心模块-->
-        <module>boyun-robot-center</module>
+        <module>boyun-smart-center</module>
         <!--BoyunCloud云服务API服务领域模块-->
-        <module>boyun-robot-domain</module>
+        <module>boyun-smart-domain</module>
         <!--BoyunCloud云服务API服务应用模块-->
-        <module>boyun-robot-web</module>
+        <module>boyun-smart-web</module>
         <!--BoyunCloud云服务API应用中心模块-->
-        <module>boyun-robot-sphere</module>
+        <module>boyun-smart-sphere</module>
     </modules>
 
     <profiles>
